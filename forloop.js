@@ -11,6 +11,7 @@ for(let i=0;i<n;i++){
     
     console.log(str);
 }
+///
 
 let alpha=["a","b","c","d","e"]
 
