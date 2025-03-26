@@ -17,3 +17,9 @@ function multiplication(mul1,mul2){
     return mul3;
 }
 console.log(multiplication(2,3));
+
+function subtraction(sub1,sub2){
+    let sub3 = sub1 - sub2;
+    return sub3;
+}
+console.log(subtraction(10,5));
