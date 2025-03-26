@@ -21,5 +21,6 @@ console.log(multiplication(2,3));
 function subtraction(sub1,sub2){
     let sub3 = sub1 - sub2;
     return sub3;
+    console.log("new commit check")
 }
 console.log(subtraction(10,5));
