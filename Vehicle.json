@@ -6,6 +6,46 @@
         "Department":"Engine"
     },
     {
+        "Spare kit name":"Manifold valve",
+        "Part" : "12",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Glow plug",
+        "Part" : "13",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Diesel filter",
+        "Part" : "14",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Air filter",
+        "Part" : "15",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Oil case",
+        "Part" : "16",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Timing chain",
+        "Part" : "17",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Fan pulley",
+        "Part" : "18",
+        "Department":"Engine"
+    },
+    {
+        "Spare kit name":"Timing valve",
+        "Part" : "19",
+        "Department":"Engine"
+    },
+    {
         "Spare kit name":"Piston valve",
         "Part" : "2",
         "Deaprtmet":"Engine"
