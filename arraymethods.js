@@ -15,7 +15,7 @@ console.log(numbers);
 let sequence = [9,8,7,6,5,4,3,2,1]
 sequence.splice(1,6);
 console.log(sequence);
-console.log(sequence.splice(9,0,'10'))
+console.log(sequence.splice(2,0,'10'))
 console.log(sequence);
 
 //sliced value based on index was displayed as output
