@@ -10,8 +10,8 @@ const ari = new Promise((resolve,reject) => {
     });5000
 });
 ari
-    .then((name) => {
-        console.log(name);
+    .then((ans) => {
+        console.log(ans);
 
     })
     .catch((error) => {
